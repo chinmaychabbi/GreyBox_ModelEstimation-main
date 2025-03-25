@@ -7,7 +7,7 @@ This project was developed as part of the **Advanced Controls** course at **Wash
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - **Programming Language**: Python
 - **Libraries Used**: NumPy, Matplotlib, CasADi
 - **Estimation Techniques**:  
